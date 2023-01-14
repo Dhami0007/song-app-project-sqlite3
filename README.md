@@ -23,5 +23,9 @@ HOW TO GET STARTED:
 Now the enviornment is set up.
 Now we can run the Project 'miniproject1.py'
 Note: when it asks for name of the database, give the name without '.db' at the end.
+
+---------------------------
+
+The Report has everything our application does, how we distributed the work and did tests
  
 Thank you
